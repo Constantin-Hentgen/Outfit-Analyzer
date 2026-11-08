@@ -120,3 +120,7 @@ Filter by indoors/outdoors and temperature, then get:
 ### Renaming or removing items
 
 The history stores item names as text. If you rename an item in `wardrobe.json`, past entries keep the old name. They still count in the statistics, but no longer match current combinations.
+
+## License
+
+[MIT](LICENSE)
