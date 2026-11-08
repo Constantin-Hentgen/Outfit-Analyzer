@@ -1,0 +1,44 @@
+{
+  "shirts": [
+    "blue oxford shirt",
+    "white linen shirt",
+    "navy flannel shirt"
+  ],
+  "t-shirts": [
+    "white t-shirt",
+    "black t-shirt",
+    "graphic print t-shirt",
+    "grey t-shirt"
+  ],
+  "no_layer_tshirts": [
+    "graphic print t-shirt"
+  ],
+  "trousers": [
+    "dark denim jeans",
+    "light denim jeans",
+    "beige chinos"
+  ],
+  "shorts": [
+    "navy shorts"
+  ],
+  "shoes": [
+    "white sneakers",
+    "brown derbies",
+    "black boots",
+    "canvas sneakers"
+  ],
+  "coats": [
+    "parka",
+    "bomber jacket",
+    "denim jacket"
+  ],
+  "heavy_coats": [
+    "parka"
+  ],
+  "pull": [
+    "grey crewneck sweater",
+    "navy hoodie",
+    "cream cardigan",
+    "green knit sweater"
+  ]
+}

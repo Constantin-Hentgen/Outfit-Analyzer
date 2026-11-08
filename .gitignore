@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Personal data (kept local, never published)
+wardrobe.json
+historique_outfits.json
+historique_outfits.corrupt-*.json
+*.tmp

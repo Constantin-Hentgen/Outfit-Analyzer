@@ -1,0 +1,7 @@
+[project]
+name = "outfit-analyzer"
+version = "0.1.0"
+description = "Terminal tool to explore, rate and analyse outfit combinations from your wardrobe."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
